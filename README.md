@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on the PsicovidA project, investigating the influences of COVID-19 pandemic on the mental health of healthcare workers.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/artvmac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artvmac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artvmac&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="Left" alt="artvmac-R" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg">
+  <img align="Left" alt="artvmac-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg">
 </div>
   
    ##
