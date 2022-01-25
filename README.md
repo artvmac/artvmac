@@ -6,5 +6,5 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="Left" alt="artvmac-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg">
+  <img align="Left" alt="artvmac-R" height="40" width="60" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </div>
